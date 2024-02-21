@@ -1,0 +1,15 @@
+{
+  "cookies": [
+    {
+      "name": "session",
+      "value": "sakura@example.com",
+      "domain": "hotel.testplanisphere.dev",
+      "path": "/ja",
+      "expires": 1743053959.486822,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
